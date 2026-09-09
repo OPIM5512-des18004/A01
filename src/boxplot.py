@@ -16,4 +16,7 @@ print(df.columns)
 cols = df.columns
 
 plt.boxplot(df,orientation='horizontal',tick_labels=cols)
+plt.savefig("boxplot",bbox_inches='tight',dpi=120)
 plt.show()
+
+#plt.savefig("Boxplot",bbox_inches='tight',dpi=120)
