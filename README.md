@@ -1,4 +1,4 @@
-# A01 - First assignment...having so much fun
+# A01 - First assignment
 # Data used: California Housing dataset
-# How to run:
+# How to run: Execute the file
 # Expected output: Saved boxplot image
